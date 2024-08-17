@@ -1,0 +1,8 @@
+.idea
+fluxcd-test.iml
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfvars
+*.info
+*.backup
